@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Jha</h1>
-<h3 align="center">A a begineer in JavaScript and cpp from India</h3>
+<h3 align="center">A  beginner in JavaScript and cpp from India</h3>
 
 - 🌱 I’m currently learning **React, TOP , Cpp**
 
