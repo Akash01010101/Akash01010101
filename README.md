@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akash Jha</h1>
 <h3 align="center">A  beginner in JavaScript and cpp from India</h3>
 
-- 🌱 I’m currently learning **React, TOP , Cpp**
+- 🌱 I’m currently learning **React, node js, Cpp**
 
 - 💬 Ask me about **html css js**
 
 - 📫 How to reach me **https://twitter.com/Akashjha0101**
 
-- 📄 Know about my experiences [not much :p](not much :p)
+- 📄 Know about my experiences (not much :p)
 
 - ⚡ Fun fact **I am dieting without the t**
 
