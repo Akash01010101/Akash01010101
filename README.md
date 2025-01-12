@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **akashjhasciencea@gmail.com**
 
-- ⚡ Fun fact **I eat alot.**
+- ⚡ Fun fact **I am dieting without the t**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
