@@ -3,13 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash01010101" alt="akash01010101" /></a> </p>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **Sparklog Web App**
 
-- 🌱 I’m currently learning **Postgresql, threeJs, Redux**
-
-- 🤝 I’m looking for help with **NodeJs and Postgres**
-
-- 💬 Ask me about **React, Tailwind, Mongoose, Nodejs, ExpressJs**
+- 🌱 I’m currently learning **Postgresql, threeJs, Redux, NextJs**
 
 - 📫 How to reach me **akashjhasciencea@gmail.com**
 
