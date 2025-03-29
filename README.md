@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash Jha</h1>
-<h3 align="center">A passionate Full-Stack developer from</h3>
+<h3 align="center">A Full-Stack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash01010101" alt="akash01010101" /></a> </p>
 
-- 🔭 I’m currently working on **Sparklog Web App**
+- 🔭 I’m currently working on **XThreadCraft**
 
-- 🌱 I’m currently learning **Postgresql, threeJs, Redux, NextJs**
+- 🌱 I’m currently learning **Postgresql, Redux, NextJs, Redis, Fastapi**
 
 - 📫 How to reach me **akashjhasciencea@gmail.com**
 
